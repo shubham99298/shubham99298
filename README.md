@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Lightning Web Component in Salesforce**
 
-- 👨‍💻 All of my projects are available at [https://reactportfolio-lovat.vercel.app/](https://reactportfolio-lovat.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/shubham99298)
 
 - 💬 Ask me about **Css,JavaScript ,ReactjS**
 
